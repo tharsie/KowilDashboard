@@ -133,7 +133,7 @@ const DashboardOverview = () => {
         {/* Bottom Section */}
         <div className="flex flex-col lg:flex-row justify-between gap-4">
           {/* Top Donators */}
-          <div className=" p-4 w-full w-[56%] h-[302px] bg-[#FD94000D] rounded-xl">
+          <div className=" p-4 w-full w-[55%] h-[302px] bg-[#FD94000D] rounded-xl">
             <div className="ml-[2%]">
             <h1 className="text-2xl font-bold">Top Donators</h1>
             <div className="ml-[3%]">           
@@ -151,10 +151,10 @@ const DashboardOverview = () => {
             <p className="text-black pt-5 relative z-10">LKR 20,000</p>
             </div>
             <div className="flex justify-between w-3/4 font-semibold">
-            <p className="text-black pt-5 relative z-10">Thushidan Pathmanathan</p>
+            <p className="text-black pt-5 relative z-10">Thusian Pathmanathan</p>
             <p className="text-black pt-5 relative z-10">LKR 20,000</p>
             </div>
-            <div className="flex justify-between w-3/4 font-semibold">
+            <div className="flex justify-between w-3/4 font-semibold">s
             <p className="text-[#FD9400] pt-5 relative z-10">See more . . . .</p>
             </div>
             </div>
@@ -163,7 +163,7 @@ const DashboardOverview = () => {
 
           {/* Upcoming Events */}
           <div
-            className="border-2 p-4 w-full w-[39%] h-[302px] rounded-xl relative bg-cover bg-center"
+            className="border-2 p-4 w-[40%]  h-[302px] rounded-xl relative bg-cover bg-center"
             style={{ backgroundImage: `url(${Rect17})` }}
           >
             <div className="absolute inset-0 bg-black  opacity-60 rounded-xl"></div>
