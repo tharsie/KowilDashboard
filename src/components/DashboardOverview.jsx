@@ -133,7 +133,7 @@ const DashboardOverview = () => {
         {/* Bottom Section */}
         <div className="flex flex-col lg:flex-row justify-between gap-4">
           {/* Top Donators */}
-          <div className=" p-4 w-full w-[55%] h-[302px] bg-[#FD94000D] rounded-xl">
+          <div className=" p-4 w-full w-[60%] h-[302px] bg-[#FD94000D] rounded-xl">
             <div className="ml-[2%]">
             <h1 className="text-2xl font-bold">Top Donators</h1>
             <div className="ml-[3%]">           
@@ -151,7 +151,7 @@ const DashboardOverview = () => {
             <p className="text-black pt-5 relative z-10">LKR 20,000</p>
             </div>
             <div className="flex justify-between w-3/4 font-semibold">
-            <p className="text-black pt-5 relative z-10">Thusian Pathmanathan</p>
+            <p className="text-black pt-5 relative z-10">Thusitan Pathmanathan</p>
             <p className="text-black pt-5 relative z-10">LKR 20,000</p>
             </div>
             <div className="flex justify-between w-3/4 font-semibold">s
@@ -175,6 +175,7 @@ const DashboardOverview = () => {
             <p className="text-white pt-2 font-semibold relative z-10">3. Thiruvizha - 02/08/2025</p>
             <p className="text-white pt-2 font-semibold relative z-10">4. Thiruvizha - 02/08/2025</p>
             <p className="text-white pt-2 font-semibold relative z-10">5. Thiruvizha - 02/08/2025</p>
+            
           </div>
         </div>
       </div>
