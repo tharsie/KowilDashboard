@@ -175,6 +175,7 @@ const DashboardOverview = () => {
             <p className="text-white pt-2 font-semibold relative z-10">3. Thiruvizha - 02/08/2025</p>
             <p className="text-white pt-2 font-semibold relative z-10">4. Thiruvizha - 02/08/2025</p>
             <p className="text-white pt-2 font-semibold relative z-10">5. Thiruvizha - 02/08/2025</p>
+            <p className="text-white pt-2 font-semibold relative z-10">5. Thiruvizha - 02/08/2025</p>
           </div>
         </div>
       </div>
