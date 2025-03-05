@@ -133,7 +133,7 @@ const DashboardOverview = () => {
         {/* Bottom Section */}
         <div className="flex flex-col lg:flex-row justify-between gap-4">
           {/* Top Donators */}
-          <div className=" p-4 w-full w-[57%] h-[302px] bg-[#FD94000D] rounded-xl">
+          <div className=" p-4 w-full w-[56%] h-[302px] bg-[#FD94000D] rounded-xl">
             <div className="ml-[2%]">
             <h1 className="text-2xl font-bold">Top Donators</h1>
             <div className="ml-[3%]">           
@@ -163,7 +163,7 @@ const DashboardOverview = () => {
 
           {/* Upcoming Events */}
           <div
-            className="border-2 p-4 w-full w-[40%] h-[302px] rounded-xl relative bg-cover bg-center"
+            className="border-2 p-4 w-full w-[39%] h-[302px] rounded-xl relative bg-cover bg-center"
             style={{ backgroundImage: `url(${Rect17})` }}
           >
             <div className="absolute inset-0 bg-black  opacity-60 rounded-xl"></div>
@@ -174,7 +174,6 @@ const DashboardOverview = () => {
             <p className="text-white pt-2 font-semibold relative z-10">2. Thiruvizha - 02/08/2025</p>
             <p className="text-white pt-2 font-semibold relative z-10">3. Thiruvizha - 02/08/2025</p>
             <p className="text-white pt-2 font-semibold relative z-10">4. Thiruvizha - 02/08/2025</p>
-            <p className="text-white pt-2 font-semibold relative z-10">5. Thiruvizha - 02/08/2025</p>
             <p className="text-white pt-2 font-semibold relative z-10">5. Thiruvizha - 02/08/2025</p>
           </div>
         </div>
